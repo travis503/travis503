@@ -1,5 +1,9 @@
 ### Hi there 👋 I'm Travis! I am a full-stack software engineer currently residing in Austin.
 
+<a href="https://www.linkedin.com/in/travis503/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<br>
+<a href="mailto:travis503@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/travis503@gmail.com-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
+
 <table>
   <tbody>
     <tr>
