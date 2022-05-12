@@ -8,6 +8,7 @@ Hi there 👋 I'm Travis! I am a full-stack software engineer currently residing
   <br>
   <a href="mailto:tmorse0186@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/tmorse0186@gmail.com-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
 </p>
+<br>
 
 <table>
   <tbody>
