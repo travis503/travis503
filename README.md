@@ -1,4 +1,4 @@
-<h3 align='center' style="padding-bottom:50px">
+<h3 align='center' style="padding-bottom: 500px">
 Hi there 👋 I'm Travis! I am a full-stack software engineer currently residing in Austin.
 </div>
 <br>
