@@ -1,5 +1,5 @@
-<div align='center'>
-### Hi there 👋 I'm Travis! I am a full-stack software engineer currently residing in Austin.
+<h1 align='center'>
+Hi there 👋 I'm Travis! I am a full-stack software engineer currently residing in Austin.
 </div>
 
 <p align="center">
