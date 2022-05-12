@@ -1,4 +1,4 @@
-<h1 align='center'>
+<h2 align='center'>
 Hi there 👋 I'm Travis! I am a full-stack software engineer currently residing in Austin.
 </div>
 
