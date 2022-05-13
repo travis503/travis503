@@ -1,6 +1,6 @@
 <h3 align='center'>
 Hi there 👋 I'm Travis! I am a full-stack software engineer currently residing in Austin.
-</div>
+</h3>
 - he/him/his
 - currently in Austin, Texas (open to relocation)
 - certified coffee nut
