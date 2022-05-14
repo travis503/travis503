@@ -3,7 +3,7 @@ Hi there 👋 I'm Travis! I am a full-stack software engineer currently residing
 </h3>
 - he/him/his<br>
 - currently in Austin, Texas (open to relocation)<br>
-- certified coffee nut
+- coffee enthusiast
 
 <br>
 <br>
